@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfOxo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfOxo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="518.4" Width="820.4">
+    <Grid>
+        <Button x:Name="btn1" Content="" HorizontalAlignment="Left" Margin="371,130,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn1_Click"/>
+        <Button x:Name="btn2" Content="" HorizontalAlignment="Left" Margin="522,130,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn2_Click"/>
+        <Button x:Name="btn4" Content="" HorizontalAlignment="Left" Margin="371,238,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn4_Click"/>
+        <Button x:Name="btn5" Content="" HorizontalAlignment="Left" Margin="522,238,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn5_Click"/>
+        <Button x:Name="btn3" Content="" HorizontalAlignment="Left" Margin="674,130,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn3_Click"/>
+        <Button x:Name="btn6" Content="" HorizontalAlignment="Left" Margin="674,238,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn6_Click"/>
+        <Button x:Name="btn7" Content="" HorizontalAlignment="Left" Margin="371,353,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn7_Click"/>
+        <Button x:Name="btn8" Content="" HorizontalAlignment="Left" Margin="522,353,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn8_Click"/>
+        <Button x:Name="btn9" Content="" HorizontalAlignment="Left" Margin="674,353,0,0" VerticalAlignment="Top" Width="80" Height="80" FontSize="36 px" Click="btn9_Click"/>
+        <CheckBox x:Name="plchck1" Content="Player 1" HorizontalAlignment="Left" Margin="54,118,0,0" VerticalAlignment="Top" Height="30" Width="129" Checked="plchck1_Checked"/>
+        <CheckBox x:Name="plchck2" Content="Player 2" HorizontalAlignment="Left" Margin="54,166,0,0" VerticalAlignment="Top" Height="26" Width="129" Checked="plchck2_Checked"/>
+        <Label x:Name="titel" Content="OXO-spel" HorizontalAlignment="Left" Margin="54,32,0,0" VerticalAlignment="Top" Height="59" Width="204" FontSize="36"/>
+ 
+    </Grid>
+</Window>

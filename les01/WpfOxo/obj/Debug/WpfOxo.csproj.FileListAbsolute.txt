@@ -1,0 +1,15 @@
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\bin\Debug\WpfOxo.exe.config
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\bin\Debug\WpfOxo.exe
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\bin\Debug\WpfOxo.pdb
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.csprojAssemblyReference.cache
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\MainWindow.g.cs
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\App.g.cs
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.cache
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo_MarkupCompile.lref
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\MainWindow.baml
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.g.resources
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.Properties.Resources.resources
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.csproj.GenerateResource.cache
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.csproj.CoreCompileInputs.cache
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.exe
+C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfOxo\obj\Debug\WpfOxo.pdb
