@@ -5,3 +5,10 @@ C:\Users\valen\source\repos\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.csproj
 C:\Users\valen\source\repos\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.csproj.CoreCompileInputs.cache
 C:\Users\valen\source\repos\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.exe
 C:\Users\valen\source\repos\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\bin\Debug\ConsoleKlinker.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\bin\Debug\ConsoleKlinker.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\bin\Debug\ConsoleKlinker.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les02\ConsoleKlinker\obj\Debug\ConsoleKlinker.pdb

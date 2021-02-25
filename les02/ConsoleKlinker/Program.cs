@@ -13,6 +13,7 @@ namespace ConsoleKlinker
         {
             int countklinkers = 0;
             Char[] klinkers = new Char[] { 'a', 'e', 'i', 'o', 'u' };
+            string antwoord2;
 
             Console.WriteLine("Geef een tekst: ");
             string antwoord = Console.ReadLine();
@@ -23,9 +24,14 @@ namespace ConsoleKlinker
                     countklinkers++;
                 }
             }
-            Console.WriteLine($"Deze tekst bevat {countklinkers} klinkers");
-            
 
+            Console.WriteLine($"Deze tekst heeft {countklinkers} klinkers");
+            Console.Write("De tekst wordt vertaald: ");
+            for (int i = 0; i < antwoord.Length; i++)
+            {
+               Console.Write( antwoord2 = Convert.ToString(Convert.ToChar(antwoord[i] + 1)));
+            }
+            
             Console.ReadLine();
 
 
