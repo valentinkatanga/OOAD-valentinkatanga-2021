@@ -13,3 +13,18 @@ C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Appl
 C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfChat\obj\Debug\WpfChat.csproj.CoreCompileInputs.cache
 C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfChat\obj\Debug\WpfChat.exe
 C:\Users\valen\Desktop\Femto Nebilim\Toegepaste informatica\2de semester\OO Application development\les01\WpfChat\obj\Debug\WpfChat.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\bin\Debug\WpfChat.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\bin\Debug\WpfChat.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\bin\Debug\WpfChat.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\MainWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\App.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat_MarkupCompile.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat_MarkupCompile.lref
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\MainWindow.baml
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.g.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.Properties.Resources.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\les01\WpfChat\obj\Debug\WpfChat.pdb
