@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfCarConfigurator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfCarConfigurator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="gamecb">
+        <Label x:Name="mklbl" Content="Spelconsole" HorizontalAlignment="Left" Margin="90,61,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="acclbl" Content="Accessesoires" HorizontalAlignment="Left" Margin="90,214,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="blarad" Content="Wit" HorizontalAlignment="Left" Margin="242,133,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="roodrad" Content="Zwart (+700 euro)" HorizontalAlignment="Left" Margin="242,173,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="grorad" Content="Grijs (+250)" HorizontalAlignment="Left" Margin="242,153,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="dualcb" Content="Extra dualshock (+70)" HorizontalAlignment="Left" Margin="243,228,0,0" VerticalAlignment="Top" />
+        <CheckBox x:Name="hdcb" Content="Headset (+40)" HorizontalAlignment="Left" Margin="242,247,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="gamecb1" Content="Random extra game (+60)" HorizontalAlignment="Left" Margin="242,267,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="ComboBox1" Width="202" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="242,57,0,0" SelectionChanged="ComboBox1_SelectionChanged">
+            <ComboBoxItem x:Name="ps1" Content="Playstation (100 euro)"></ComboBoxItem>
+            <ComboBoxItem x:Name="ps2" Content="Playstation 2 (120 euro)"></ComboBoxItem>
+            <ComboBoxItem x:Name="ps3" Content="Playstation 3 (150 euro)"></ComboBoxItem>
+        </ComboBox>
+        <Image x:Name="imgG" Margin="485,284,80.6,84" Source="games.png" Stretch="Fill"/>
+        <Image x:Name="imgHd" Margin="485,214,229.6,158" Source="headset.jpg" Stretch="Fill"/>
+        <Image x:Name="imgDs" Margin="611,224,117.6,158" Source="dualshock.jpg" Stretch="Fill"/>
+        <Image x:Name="psimg" HorizontalAlignment="Left" Height="142" Margin="510,36,0,0" VerticalAlignment="Top" Width="203"/>
+
+
+    </Grid>
+</Window>

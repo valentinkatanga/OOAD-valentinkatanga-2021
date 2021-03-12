@@ -1,0 +1,15 @@
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.exe.config
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.exe
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\bin\Debug\WpfCarConfigurator.pdb
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\MainWindow.g.cs
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\App.g.cs
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator_MarkupCompile.cache
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator_MarkupCompile.lref
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\MainWindow.baml
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.g.resources
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.Properties.Resources.resources
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csproj.GenerateResource.cache
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.exe
+C:\Users\valen\source\repos\WpfCarConfigurator\WpfCarConfigurator\obj\Debug\WpfCarConfigurator.pdb

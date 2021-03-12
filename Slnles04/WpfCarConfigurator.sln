@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfCarConfigurator", "WpfCarConfigurator\WpfCarConfigurator.csproj", "{A1CA8034-CD04-4FA9-89CA-6E92E5331646}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "playstation", "playstation", "{991F0EDC-7565-4A50-99AF-DA38023B94BA}"
+	ProjectSection(SolutionItems) = preProject
+		WpfCarConfigurator\images\ps1b.jpg = WpfCarConfigurator\images\ps1b.jpg
+		WpfCarConfigurator\images\ps1g.jpg = WpfCarConfigurator\images\ps1g.jpg
+		WpfCarConfigurator\images\ps1w.jpg = WpfCarConfigurator\images\ps1w.jpg
+		WpfCarConfigurator\images\ps2b.jpg = WpfCarConfigurator\images\ps2b.jpg
+		WpfCarConfigurator\images\ps2g.jfif = WpfCarConfigurator\images\ps2g.jfif
+		WpfCarConfigurator\images\ps2w.jpg = WpfCarConfigurator\images\ps2w.jpg
+		WpfCarConfigurator\images\ps3b.jpg = WpfCarConfigurator\images\ps3b.jpg
+		WpfCarConfigurator\images\ps3g.jpg = WpfCarConfigurator\images\ps3g.jpg
+		WpfCarConfigurator\images\ps3w.jpg = WpfCarConfigurator\images\ps3w.jpg
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deel_1A_UI_bouwen", "Deel_1A_UI_bouwen\Deel_1A_UI_bouwen.csproj", "{08FCE974-9C50-40B6-BD9B-EDCB01A55FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1CA8034-CD04-4FA9-89CA-6E92E5331646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CA8034-CD04-4FA9-89CA-6E92E5331646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CA8034-CD04-4FA9-89CA-6E92E5331646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CA8034-CD04-4FA9-89CA-6E92E5331646}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FCE974-9C50-40B6-BD9B-EDCB01A55FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FCE974-9C50-40B6-BD9B-EDCB01A55FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FCE974-9C50-40B6-BD9B-EDCB01A55FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FCE974-9C50-40B6-BD9B-EDCB01A55FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B1F986-0A4F-426D-829E-372B5FFC813D}
+	EndGlobalSection
+EndGlobal
