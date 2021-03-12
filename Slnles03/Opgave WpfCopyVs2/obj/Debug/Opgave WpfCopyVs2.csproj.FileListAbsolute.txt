@@ -1,0 +1,15 @@
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\bin\Debug\Opgave WpfCopyVs2.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\bin\Debug\Opgave WpfCopyVs2.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\bin\Debug\Opgave WpfCopyVs2.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\MainWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\App.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2_MarkupCompile.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2_MarkupCompile.lref
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\MainWindow.baml
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.g.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave_WpfCopyVs2.Properties.Resources.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\Opgave WpfCopyVs2\obj\Debug\Opgave WpfCopyVs2.pdb

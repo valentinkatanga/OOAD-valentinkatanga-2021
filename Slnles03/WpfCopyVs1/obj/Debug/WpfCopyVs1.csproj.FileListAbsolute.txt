@@ -1,0 +1,15 @@
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\MainWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\App.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1_MarkupCompile.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1_MarkupCompile.lref
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\bin\Debug\WpfCopyVs1.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\bin\Debug\WpfCopyVs1.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\bin\Debug\WpfCopyVs1.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\MainWindow.baml
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.g.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.Properties.Resources.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\WpfCopyVs1\obj\Debug\WpfCopyVs1.pdb

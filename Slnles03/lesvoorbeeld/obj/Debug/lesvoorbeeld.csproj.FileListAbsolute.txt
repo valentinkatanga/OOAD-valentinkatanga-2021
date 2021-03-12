@@ -1,0 +1,15 @@
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\bin\Debug\lesvoorbeeld.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\bin\Debug\lesvoorbeeld.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\bin\Debug\lesvoorbeeld.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\MainWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\App.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld_MarkupCompile.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld_MarkupCompile.lref
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\MainWindow.baml
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.g.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.Properties.Resources.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles03\lesvoorbeeld\obj\Debug\lesvoorbeeld.pdb
