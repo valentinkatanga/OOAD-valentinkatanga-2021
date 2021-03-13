@@ -24,56 +24,116 @@ namespace WpfCarConfigurator
         public MainWindow()
         {
             InitializeComponent();
+            BerekenLayout();
+
         }
-
-
-
-
-        private void ComboBox1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        int prijs = 0;
+        private void BerekenLayout()
         {
-            if (ComboBox1.SelectedItem == ps1 )
+            if (combops1.IsSelected == true)
             {
-               psimg.Source = new BitmapImage(new Uri("playstation/ps2b.jpg", UriKind.Relative));
+                if (zwart.IsChecked == true)
+                {
 
-            }
-            else 
-            if(ComboBox1.SelectedItem == ps2)
-            {
-                psimg.Source = new BitmapImage(new Uri("playstation/ps2b.jpg", UriKind.Relative));
+                    psimg.Source = new BitmapImage(new Uri("playstation/ps1b.jpg", UriKind.Relative));
+                    prijs += 170;
+
+                }
+                else
+                if (wit.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri("playstation/ps1w.jpg", UriKind.Relative));
+                    prijs += 100;
+
+
+                }
+                else
+                if (grijs.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri("playstation/ps1g.jpg", UriKind.Relative));
+                    prijs += 125;
+
+                }
             }
             else
-            if (ComboBox1.SelectedItem == ps3)
+         if (combops2.IsSelected == true)
             {
-                psimg.Source = new BitmapImage(new Uri("playstation/ps3b.jpg", UriKind.Relative));
+                if (zwart.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2b.jpg", UriKind.Relative));
+                    prijs += 120 + 70;
+
+                }
+                else
+                if (wit.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2w.jpg", UriKind.Relative));
+                    prijs += 120;
+
+                }
+                else
+                if (grijs.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2g.jpg", UriKind.Relative));
+                    prijs += 120 + 25;
+                }
             }
-            
-
-        }
-
-        private void dualcb_Checked(object sender, RoutedEventArgs e)
-        {
-            if (dualcb.IsChecked == false)
+            else
+         if (combops3.IsSelected == true)
             {
-                imgDs.Opacity = 0.3;
-            }
-        }
+                if (zwart.IsChecked == true)
+                {
 
-        private void hdcb_Checked(object sender, RoutedEventArgs e)
-        {
-            if (hdcb.IsChecked == false)
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2b.jpg", UriKind.Relative));
+                    prijs += 150 + 70;
+                }
+                else
+                if (wit.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2w.jpg", UriKind.Relative));
+                    prijs += 150;
+
+                }
+                else
+                if (grijs.IsChecked == true)
+                {
+
+                    psimg.Source = new BitmapImage(new Uri(@"playstation/ps2g.jpg", UriKind.Relative));
+                    prijs += 150 + 25;
+                }
+            }
+            if (headset.IsChecked == true)
             {
-                imgHd.Opacity = 0.3;
+                headset.Opacity = 1;
+                prijs += 40;
             }
-        }
-
-        private void gamecb1_Checked(object sender, RoutedEventArgs e)
-        {
-            if (hdcb.IsChecked == false)
+            else
+            if (randgame.IsChecked == true)
             {
-                imgG.Opacity = 0.3;
+                randgame.Opacity = 1;
+                prijs += 60;
+            }
+            else
+            if (dualshock.IsChecked == true)
+            {
+                dualshock.Opacity = 1;
+                prijs += 70;
             }
         }
-
     }
-}
+
+
+
+
+
+
+
+}   
+
 

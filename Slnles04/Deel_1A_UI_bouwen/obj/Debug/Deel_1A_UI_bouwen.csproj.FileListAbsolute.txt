@@ -12,3 +12,10 @@ C:\Users\valen\source\repos\WpfCarConfigurator\Deel_1A_UI_bouwen\obj\Debug\Deel_
 C:\Users\valen\source\repos\WpfCarConfigurator\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.csproj.CoreCompileInputs.cache
 C:\Users\valen\source\repos\WpfCarConfigurator\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.exe
 C:\Users\valen\source\repos\WpfCarConfigurator\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.csprojAssemblyReference.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\MainWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\App.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen_MarkupCompile.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen_MarkupCompile.lref
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.pdb
