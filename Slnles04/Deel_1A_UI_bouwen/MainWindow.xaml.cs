@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,8 +24,73 @@ namespace Deel_1A_UI_bouwen
         public MainWindow()
         {
             InitializeComponent();
+            statlbl.Content = "Chars: " + txtBox1.Text.Length.ToString();
+            if (txtBox1.SelectedText == "")
+            {
+                btnCopy.IsEnabled = false;
+            }
+            else
+            {
+                btnCopy.IsEnabled = true;
+
+            }
+            if (txtBox1.SelectedText == "")
+            {
+                btnCut.IsEnabled = false;
+            }
+            else
+            {
+                btnCut.IsEnabled = true;
+
+            }
+
+        }
+
+        
+        private void MenuItem_Click_1(object sender, RoutedEventArgs e)
+        {
+            Environment.Exit(0);
+            
         }
 
 
+        private void btnCopy_Click(object sender, RoutedEventArgs e)
+        {
+            Clipboard.SetText(Convert.ToString(txtBox1.SelectedText));
+            txtBox1.SelectedText = "";
+        }
+
+        private void btnCut_Click(object sender, RoutedEventArgs e)
+        {
+
+            Clipboard.SetText(Convert.ToString(txtBox1.SelectedText));
+            txtBox1.SelectedText = "";
+
+        }
+        private void btnPaste_Click(object sender, RoutedEventArgs e)
+        {
+            txtBox1.Text = Clipboard.GetText();
+        }
+
+
+        private void btnAbout_Click(object sender, RoutedEventArgs e)
+        {
+            AboutWindow about = new AboutWindow();
+            about.Show();
+        }
+
+        private void btnOpen_Click(object sender, RoutedEventArgs e)
+        {
+            string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            string filePath = System.IO.Path.Combine(folderPath, "lines.txt");
+            StreamReader reader = File.OpenText(filePath);
+            string line = reader.ReadLine();
+            while(line != null) 
+            {
+                txtBox1.Text = line;
+                txtBox1.Text = Environment.NewLine;
+                line = reader.ReadLine();
+            }
+        }
     }
 }

@@ -19,3 +19,13 @@ C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel
 C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen_MarkupCompile.lref
 C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.exe
 C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\bin\Debug\Deel_1A_UI_bouwen.exe.config
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\bin\Debug\Deel_1A_UI_bouwen.exe
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\bin\Debug\Deel_1A_UI_bouwen.pdb
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\MainWindow.baml
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.g.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.Properties.Resources.resources
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.csproj.GenerateResource.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\Deel_1A_UI_bouwen.csproj.CoreCompileInputs.cache
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\AboutWindow.g.cs
+C:\Users\valen\OneDrive\Documents\GitHub\OOAD-valentinkatanga-2021\Slnles04\Deel_1A_UI_bouwen\obj\Debug\AboutWindow.baml

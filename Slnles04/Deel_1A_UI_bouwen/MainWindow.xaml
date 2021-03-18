@@ -9,30 +9,32 @@
     <Grid>
         <DockPanel  LastChildFill="True">
             <Menu DockPanel.Dock="Top">
-                <MenuItem Header="_File">
-                    <MenuItem Header="_New" />
-                    <MenuItem Header="_Open..." />
-                    <MenuItem Header="_Save" />
-                    <MenuItem Header="Save _As..." />
+                <MenuItem x:Name="btnFile" Header="_File">
+                    <MenuItem x:Name="btnNew" Header="_New" />
+                    <MenuItem x:Name="btnOpen" Header="_Open..." Click="btnOpen_Click" />
+                    <MenuItem x:Name="btnSave" Header="_Save" />
+                    <MenuItem x:Name="btnSaveAs" Header="Save _As..." />
                     <Separator />
-                    <MenuItem Header="E_xit"/>
+                    <MenuItem x:Name="btnExit" Header="E_xit" Click="MenuItem_Click_1"/>
                 </MenuItem>
-                <MenuItem Header="_Edit">
-                    <MenuItem Header="_Cut" />
-                    <MenuItem Header="_Copy" />
-                    <MenuItem Header="_Paste" />
+                <MenuItem x:Name="btnEdit" Header="_Edit"  >
+                    <MenuItem x:Name="btnCut" Header="_Cut" Click="btnCut_Click" />
+                    <MenuItem x:Name="btnCopy" Header="_Copy" Click="btnCopy_Click"  />
+                    <MenuItem x:Name="btnPaste" Header="_Paste" Click="btnPaste_Click" />
                 </MenuItem>
-                <MenuItem Header="_Help">
-                    <MenuItem Header="_About" />
+                <MenuItem x:Name="btnHelp" Header="_Help" >
+                    <MenuItem x:Name="btnAbout" Header="_About" Click="btnAbout_Click"  />
                 </MenuItem>
             </Menu>
             <StatusBar DockPanel.Dock="Bottom">
-                <Label x:Name="statlbl" Content= "chars: " Padding="10,2" FontSize="10" />
-            </StatusBar>            <ScrollViewer>
-             <TextBox x:Name="txtBox1" HorizontalAlignment="Left" Height="378" TextWrapping="Wrap" VerticalAlignment="Top" Width="784" TextChanged="txtBox1_TextChanged"/>
-             </ScrollViewer>
-                
-            
-        </DockPanel>
+                <Label x:Name="statlbl"  Padding="10,2" FontSize="10" Width="100" Height="30"   />
+            </StatusBar>
+            <ScrollViewer>
+                <TextBox x:Name="txtBox1" Height="341"  TextWrapping="Wrap"  Width="779"  />
+            </ScrollViewer>
+
+
+        </DockPanel>
+
     </Grid>
 </Window>
