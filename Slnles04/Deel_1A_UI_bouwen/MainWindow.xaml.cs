@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Win32;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -81,16 +82,18 @@ namespace Deel_1A_UI_bouwen
 
         private void btnOpen_Click(object sender, RoutedEventArgs e)
         {
-            string folderPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            string filePath = System.IO.Path.Combine(folderPath, "lines.txt");
-            StreamReader reader = File.OpenText(filePath);
-            string line = reader.ReadLine();
-            while(line != null) 
+
+            OpenFileDialog dialog = new OpenFileDialog();
+            dialog.InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+            dialog.Filter = "Tekstbestanden|*.TXT;*.TEXT";
+            string chosenFileName;
+            if (dialog.ShowDialog() == true)
             {
-                txtBox1.Text = line;
-                txtBox1.Text = Environment.NewLine;
-                line = reader.ReadLine();
+
+                chosenFileName = dialog.FileName;
+                txtBox1.Text = File.ReadAllText(chosenFileName);
             }
+
         }
     }
 }
