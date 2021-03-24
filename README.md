@@ -1,6 +1,6 @@
-# BWD-ValentinKatanga-2021
+# OOAD-ValentinKatanga-2021
 
-# Basic web development
+# OO Application development
 * Valentin Katanga Malwengo
 * 2020/2021
 * 1 TI 2
