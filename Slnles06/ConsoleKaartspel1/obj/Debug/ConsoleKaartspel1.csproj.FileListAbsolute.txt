@@ -1,0 +1,7 @@
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\obj\Debug\ConsoleKaartspel1.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\obj\Debug\ConsoleKaartspel1.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\bin\Debug\ConsoleKaartspel1.exe.config
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\bin\Debug\ConsoleKaartspel1.exe
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\bin\Debug\ConsoleKaartspel1.pdb
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\obj\Debug\ConsoleKaartspel1.exe
+C:\Users\valen\source\repos\ConsoleKaartspel1\ConsoleKaartspel1\obj\Debug\ConsoleKaartspel1.pdb
