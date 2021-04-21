@@ -9,7 +9,7 @@
     <Grid>
         <DockPanel  LastChildFill="True">
             <Menu DockPanel.Dock="Top">
-                <MenuItem x:Name="btnFile" Header="_File" SubmenuClosed="btnFile_SubmenuClosed">
+                <MenuItem x:Name="btnFile" Header="_File" >
                     <MenuItem x:Name="btnNew" Header="_New" />
                     <MenuItem x:Name="btnOpen" Header="_Open..." Click="btnOpen_Click" />
                     <MenuItem x:Name="btnSave" Header="_Save" />
